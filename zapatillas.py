@@ -59,7 +59,7 @@ def menu():
         if opcion == "1":
             reservar_zapatillas()
         elif opcion == "2":
-            buscar_reservas()
+            
         elif opcion == "3":
             cancelar_reserva()
         elif opcion == "4":
